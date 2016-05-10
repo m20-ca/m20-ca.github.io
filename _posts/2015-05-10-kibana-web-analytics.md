@@ -13,7 +13,7 @@ image:
 
 On trouve n'importe quel genre de traffic sur nos sites, mais est-ce du traffic intéressant?! Avec nos outils, on sait quel traffic laisser passer, et quel bloquer.
 
-Ne vous laissez pas berner par des intrus, trouvez les bons clients du premiers coup!
+Ne vous laissez pas berner par des intrus, trouvez les bons clients du premier coup!
 
 Communiquez avec nous pour plus de détail sur nos services!
 
