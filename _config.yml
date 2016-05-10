@@ -2,7 +2,7 @@
 title:       m20.ca
 email:       info@m20.ca
 author:      Vincent Martel
-description: "My jekyll blog hosted on github"
+description: "Médias faciles"
 baseurl:     ""
 url:         "http://m20.ca"
 date_format: "%b %-d, %Y"
