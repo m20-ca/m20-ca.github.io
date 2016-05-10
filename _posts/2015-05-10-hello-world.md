@@ -8,7 +8,7 @@ categories: intro m20.ca
 
 Salut!
 
-C'est juste pour vous dire qu'on est back in business! Si vous avez des amis ou si vous êtes intéressés à avoir une bonne présence sur le Web, vous êtes au bon endroit!
+C'est juste pour vous dire qu'on est back in business (officiellement)! Si vous avez des amis ou si vous êtes intéressés à avoir une bonne présence sur le Web, vous êtes au bon endroit!
 
 Ce site se veut comme un centre de ressources pour les développeurs et les enthousiastes du Web et des médias émergents! Let's talk, let's share pis créons ce qu'on a envie que le Web aille l'air demain!
 
