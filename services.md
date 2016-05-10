@@ -5,6 +5,7 @@ permalink: /services/
 tags: services
 ---
 
+
 # Hébergement
 
 | DE BASE | EXCELLENCE | SUPRÊME |
@@ -14,7 +15,7 @@ tags: services
 
 Jettez un oeil à ce qui se passe à Las Vegas en ce moment. On vous laisse juger si c'est quelque chose qui pourrait vous intéresser!
 
-<button class="button button-blue button-big mobile-block" onclick="window.location.href='#blog-post'">Voir ce qui se passe</button>
+<button class="button button-blue button-big mobile-block" onclick="window.location.href='/server/2016/05/09/kibana-web-analytics/'">Voir ce qui se passe</button>
 
 # Développement
 
@@ -36,6 +37,8 @@ On connais aussi très bien les serveurs:
 * IIS
 * Et les différentes bases de données qui viennent avec!
 
+<button class="button button-blue button-big mobile-block" onclick="window.location.href='/contact/'">Contactez nos développeurs!</button>
+
 
 # Art visuel
 
@@ -44,6 +47,8 @@ On connais aussi très bien les serveurs:
 * Cartes d'affaires
 * Flyers
 
+<button class="button button-blue button-big mobile-block" onclick="window.location.href='/contact/'">Contactez nos designers!</button>
+
 # Marketing
 
 * Google AdWords
@@ -51,3 +56,5 @@ On connais aussi très bien les serveurs:
 * Contenu d'affaires
 * Infolettres
 * Autres analyses sur mesure
+
+<button class="button button-blue button-big mobile-block" onclick="window.location.href='/contact/'">M-A-R-K-E-Ke-Ting</button>

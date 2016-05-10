@@ -19,4 +19,6 @@ Partageons, et aidons nous à avoir accès aux meilleures technologies et vision
 
 #### Au plaisir de travailler avec vous!
 
-Pour toute question ou commentaire, n'hésitez-pas à nous [contacter](/contact/)!
+Pour toute question ou commentaire, n'hésitez-pas!
+
+<button class="button button-blue button-big mobile-block" onclick="window.location.href='/contact/'">Contactez-nous!</button>
