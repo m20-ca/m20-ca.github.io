@@ -15,7 +15,7 @@ Ici ce qui nous intéresse c'est le Web, les nouvelles technologies et l'art com
 
 On vise à aider monsieur/madame tout le monde dans leurs projets, parce que nous aussi on est passé par là.
 
-Partageons, et aidons nous à avoir accès aux meilleures technologies et visions sur ce que qu'il est possible de faire avec les médias actuels et futurs!
+Partageons, et aidons nous à avoir accès aux meilleures technologies et visions sur ce qu'il est possible de faire avec les médias actuels et futurs!
 
 #### Au plaisir de travailler avec vous!
 
