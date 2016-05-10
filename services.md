@@ -7,14 +7,14 @@ tags: services
 
 # Hébergement
 
-| basic | premium | supreme |
+| DE BASE | EXCELLENCE | SUPRÊME |
 |------|------|------|
 | 75$ / an | 150$ / an | 225$ / an |
-| La base fonctionnelle, tout ce qu'il vous faut pour démarrer pour la première année | La base fonctionnelle plus un paquet d'affaires, genre de la sécurité et ben du confort | Comme une suite à Las Vegas, avec des licornes et des dragons |
+| La base fonctionnelle, tout ce qu'il vous faut pour démarrer pour la première année | La base fonctionnelle plus un paquet d'affaires, genre de la sécurité et ben du confort | Tout le reste, pis comme une suite à Las Vegas, avec des licornes et des dragons |
 
 Jettez un oeil à ce qui se passe à Las Vegas en ce moment. On vous laisse juger si c'est quelque chose qui pourrait vous intéresser!
 
-[On garde un oeil scrupuleux sur le traffic qui passe par nos serveurs!](#)
+<button class="button button-blue button-big mobile-block" onclick="window.location.href='#blog-post'">Voir ce qui se passe</button>
 
 # Développement
 
