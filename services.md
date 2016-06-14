@@ -5,21 +5,9 @@ permalink: /services/
 tags: services
 ---
 
+# Développement Web
 
-# Hébergement
-
-| DE BASE | EXCELLENCE | SUPRÊME |
-|------|------|------|
-| 75$ / an | 150$ / an | 225$ / an |
-| La base fonctionnelle, tout ce qu'il vous faut pour démarrer pour la première année | La base fonctionnelle plus un paquet d'affaires, genre de la sécurité et ben du confort | Tout le reste, pis comme une suite à Las Vegas, avec des licornes et des dragons |
-
-Jettez un oeil à ce qui se passe à Las Vegas en ce moment. On vous laisse juger si c'est quelque chose qui pourrait vous intéresser!
-
-<button class="button button-blue button-big mobile-block" onclick="window.location.href='/server/2016/05/09/kibana-web-analytics/'">Voir ce qui se passe</button>
-
-# Développement
-
-On se débrouille plutôt bien sur les technologies suivantes:
+Le développement Web, c'est notre force. Imaginez un ours dans la forêt. M20 c'est l'ours, et le Web, la forêt. Nous avons au fil du temps développé une solide expertise sur les plateformes les plus utilisées, notamment:
 
 * Wordpress
 * Joomla
@@ -31,23 +19,23 @@ On se débrouille plutôt bien sur les technologies suivantes:
 * Jango
 * Pyramid
 
-On connais aussi très bien les serveurs:
+<button class="button button-blue button-big mobile-block" onclick="window.location.href='/contact/'">Estimation gratuite !</button>
 
-* Linux
-* IIS
-* Et les différentes bases de données qui viennent avec!
+# Hébergement
 
-<button class="button button-blue button-big mobile-block" onclick="window.location.href='/contact/'">Contactez nos développeurs!</button>
+| DE BASE | EXCELLENCE | SUPRÊME |
+|------|------|------|
+| 75$ / an | 150$ / an | 225$ / an |
+| La base fonctionnelle, tout ce qu'il vous faut pour démarrer pour la première année | La base fonctionnelle plus un paquet d'affaires, genre de la sécurité et ben du confort | Tout le reste, pis comme une suite à Las Vegas, avec des licornes et des dragons |
 
+Vous désirez obtenir une soumission pour une solution d'hébergement sur mesure ? N'hésitez pas à [nous écrire](/contact/) !
 
 # Art visuel
 
 * Photographie
+* Vidéos corporatifs
 * Design graphique
 * Cartes d'affaires
-* Flyers
-
-<button class="button button-blue button-big mobile-block" onclick="window.location.href='/contact/'">Contactez nos designers!</button>
 
 # Marketing
 
@@ -56,5 +44,3 @@ On connais aussi très bien les serveurs:
 * Contenu d'affaires
 * Infolettres
 * Autres analyses sur mesure
-
-<button class="button button-blue button-big mobile-block" onclick="window.location.href='/contact/'">M-A-R-K-E-Ke-Ting</button>
