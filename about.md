@@ -9,9 +9,9 @@ tags: about
 
 ## Le partage et l'accessibilité !
 
-Chez [m20.ca](http://m20.ca), on donne la priorité à la transparence et à la disponibilité du savoir. Si on sait quelque chose, pourquoi ne pas le partager ?!
+Chez M20, on donne la priorité à la transparence et à la disponibilité du savoir. Si on sait quelque chose, pourquoi ne pas le partager ?!
 
-Ici ce qui nous intéresse c'est le Web, les nouvelles technologies et l'art comme la photographie et la musique.
+Ici ce qui nous intéresse c'est le Web, le marketing, les nouvelles technologies et l'art comme la photographie et la vidéo.
 
 On vise à aider monsieur/madame tout le monde dans leurs projets, parce que nous aussi on est passé par là.
 
