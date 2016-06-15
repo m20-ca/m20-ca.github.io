@@ -1,0 +1,12 @@
+#frameworks {
+    text-align: center;
+    .framework {
+        display: inline-block;
+        margin: 2%;
+        width: 28%;
+        min-width: 140px;
+        a {
+            background-image: none;
+        }
+    }   
+}
