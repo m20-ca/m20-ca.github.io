@@ -9,17 +9,23 @@ tags: services
 
 Le développement Web, c'est notre force. Imaginez un ours dans la forêt. M20 c'est l'ours, et le Web, la forêt. Nous avons au fil du temps développé une solide expertise sur les plateformes les plus utilisées, notamment:
 
-* Wordpress
-* Joomla
-* Drupal
-* Magento
-* Shopify
-* ASP.Net
-* AngularJS
-* Jango
-* Pyramid
+<div id="frameworks">
+<div class="framework"><a target="_blank" href="https://wordpress.com/"><img alt="WordPress" src="/images/wordpress.png"/></a></div>
+<div class="framework"><a target="_blank" href="https://www.joomla.org/"><img alt="Joomla" src="/images/joomla.png"/></a></div>
+<div class="framework"><a target="_blank" href="https://www.drupal.org/"><img alt="Drupal" src="/images/drupal.png"/></a></div>
+<div class="framework"><a target="_blank" href="https://magento.com/"><img alt="Magento" src="/images/magento.png"/></a></div>
+<div class="framework"><a target="_blank" href="https://www.shopify.ca/"><img alt="Shopify" src="/images/shopify.png"/></a></div>
+<div class="framework"><a target="_blank" href="http://www.asp.net/"><img alt="ASP.Net" src="/images/aspnet.png"/></a></div>
+<div class="framework"><a target="_blank" href="https://angularjs.org/"><img alt="AngularJS" src="/images/angularjs.png"/></a></div>
+<div class="framework"><a target="_blank" href="https://www.djangoproject.com/"><img alt="Django" src="/images/django.png"/></a></div>
+<div class="framework"><a target="_blank" href="http://www.pylonsproject.org/"><img alt="Pyramid" src="/images/pyramid.png"/></a></div>
+</div>
 
-<button class="button button-blue button-big mobile-block" onclick="window.location.href='/contact/'">Estimation gratuite !</button>
+<center>Contactez-nous pour plus de détails sur nos offres !</center>
+
+&nbsp; 
+
+<center><button class="button button-blue button-big mobile-block" onclick="window.location.href='/contact/'">Obtenez un estimation gratuite !</button></center>
 
 # Hébergement
 
